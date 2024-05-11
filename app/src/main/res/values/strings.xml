@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">WashCar</string>
+
+    //Texto
+    <string name="lbnUno">CarsWash</string>
+    <string name="lbnDos">Bienvenido al menu de inicio</string>
+    <string name="lbnTres">Clientes</string>
+    <string name="lbnCuatro">Vehiculos</string>
+    <string name="lbnCinco">Servicios</string>
+    <string name="lbnSeis">Registros</string>
+    <string name="lbnSiete">Registro de clientes</string>
+    <string name="lbnOcho">Registro de vehiculos</string>
+    <string name="lbnnueve">Registro de servicios</string>
+    <string name="lbnDiez">Registros</string>
+    <string name="lbnOnce">Registros de CarsWash</string>
+
+    //BotonesInicio
+    <string name="btnVehiculos">Vehiculos</string>
+    <string name="btnRegistroL">Registrar</string>
+    <string name="btnServicios">Servicios</string>
+    <string name="btnClientes">Clientes</string>
+
+    //BotonesCliente
+    <string name="btnBuscarC">Buscar</string>
+    <string name="btnEditarC">Editar</string>
+    <string name="btnEliminarC">Eliminar</string>
+    <string name="btnVolverC">Volver Inicio C</string>
+    <string name="btnGuardarC">Guardar</string>
+    <string name="btnRegistroC">Registros</string>
+
+    //EditTextClientes
+    <string name="edtCodigoC">Codigo de cliente</string>
+    <string name="edtNombreC">Nombres</string>
+    <string name="edtApellidoC">Apellidos</string>
+    <string name="edtTelefono">Telefono</string>
+    <string name="edtCorreo">Correo</string>
+    <string name="edtDireccion">Direccion</string>
+
+    //BotonesVvehiculos
+    <string name="btnBuscarV">Buscar</string>
+    <string name="btnEditarV">Editar</string>
+    <string name="btnEliminarV">Eliminar</string>
+    <string name="btnVolverV">Volver Inicio C</string>
+    <string name="btnGuardarV">Guardar</string>
+    <string name="btnRegistroV">Registros</string>
+
+    //EditTextVehiculo
+    <string name="edtCodigoV">Codigo de vehiculo</string>
+    <string name="edtMarca">Marca</string>
+    <string name="edtModelo">Modelo</string>
+    <string name="edtPlaca">Placa</string>
+    <string name="edtColor">Color</string>
+    <string name="edtTipo">Tipo</string>
+
+    //BotonesServicio
+    <string name="btnBuscarS">Buscar</string>
+    <string name="btnEditarS">Editar</string>
+    <string name="btnEliminarS">Eliminar</string>
+    <string name="btnVolverS">Volver Inicio C</string>
+    <string name="btnGuardarS">Guardar</string>
+    <string name="btnRegistroS">Registros</string>
+
+    //EditTextVehiculo
+    <string name="edtCodigoS">Codigo de servicio</string>
+    <string name="lstServicioS">Servicio</string>
+    <string name="edtPrecioS">Precio</string>
+
+    //BotonesRegistro
+    <string name="btnBuscarR">Buscar</string>
+    <string name="btnEditarR">Editar</string>
+    <string name="btnEliminarR">Eliminar</string>
+    <string name="btnVolverR">Volver Inicio C</string>
+    <string name="btnGuardarR">Guardar</string>
+    <string name="btnRegistroR">Registros</string>
+
+    //RegistroLavado
+    <string name="edtCodigoR">Codigo de registro</string>
+    <string name="edtFecha">Fecha de lavado</string>
+    <string name="edtHoraInicio">Hora de inicio</string>
+    <string name="edtHoraFin">Hora Final</string>
+    <string name="edtPrecioR">Precio total</string>
+
+    //Registro de clientes
+    <string name="btnVolverRC">Regresar</string>
+    <string name="btnMostrarRC">Clientes</string>
+
+    //Registro de servicio
+    <string name="btnVolverRS">Regresar</string>
+    <string name="btnMostrarRS">Servicios</string>
+
+    //Registro de vehiculos
+    <string name="btnVolverRV">Regresar</string>
+    <string name="btnMostrarrV">Vehiculos</string>
+
+    //Registro de registro
+    <string name="btnVolverRR">Regresar</string>
+    <string name="btnMostrarRR">Registros</string>
+</resources>
